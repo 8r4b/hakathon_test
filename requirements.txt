@@ -4,10 +4,11 @@ sqlalchemy
 alembic
 python-jose[cryptography]
 passlib[bcrypt]
-pydantic
+pydantic[email]
 python-dotenv
 httpx
 openai
 psycopg2-binary  # For PostgreSQL, or use 'sqlite' for SQLite
 pytest
 pytest-asyncio
+email-validator
