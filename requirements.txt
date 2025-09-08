@@ -12,3 +12,4 @@ psycopg2-binary  # For PostgreSQL, or use 'sqlite' for SQLite
 pytest
 pytest-asyncio
 email-validator
+python-multipart
